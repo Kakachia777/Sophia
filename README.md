@@ -1,5 +1,5 @@
 <h1>🔥🎨 Sophia: The Next-Generation Design Creation Platform 🌐🎥</h1>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"> <img src="https://i.imghippo.com/files/eqJli1712957822.png" alt="Sophia Logo" style="max-width: 150px;"> <p style="font-size: 24px; font-weight: bold; margin-top: 20px;">🎨 Sophia: The Next-Generation Design Creation Platform 🌐</p> </div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"> <img src="https://i.imghippo.com/files/eqJli1712957822.png" alt="Sophia Logo" style="max-width: 100px;"> <p style="font-size: 24px; font-weight: bold; margin-top: 20px;">🎨 Sophia: The Next-Generation Design Creation Platform 🌐</p> </div>
 
 <p>Introducing Sophia, the most technologically advanced design creation platform that harnesses the power of cutting-edge AI, machine learning, and cloud computing to revolutionize the way you create stunning designs for AR/VR, 3D, App Design, Web Design, Illustrations, and UX/UI Design.</p>
 <h2>🌟 Cutting-Edge Technologies</h2>
