@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="Logo" width="200" height="200">
+  <img src="./logo.png" alt="Logo" width="250" height="210">
   <h1 align="center">🔥🎨 Sophia: The Next-Generation Design Creation Platform 🌐🎥</h1>
 </div>
 
