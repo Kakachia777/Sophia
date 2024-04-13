@@ -1,4 +1,4 @@
-<p align="center"> <img src="./logo.png" alt="Logo" width="250" height="210"> </p> <div align="center"> 
+<p align="center"> <img src="./logo.png" alt="Logo" width="250" height="210"> </p> 
 
 
 <h1 align="center">🔥🎨 Sophia: The Next-Generation Design Creation Platform 🌐🎥</h1>
